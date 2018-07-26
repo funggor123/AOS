@@ -1,5 +1,5 @@
 # 9front integrated version 
-The people who use 9front
+<h5>The people who use 9front</h5>
 <p align="center">
   <img width="460" height="300" src="http://fqa.9front.org/sweat.gif">
 </p>
