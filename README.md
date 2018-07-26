@@ -1,2 +1,2 @@
-# plan9_doc
-Please go to Wiki
+# Plan9 Resources Repos
+  Tutorial : Go to Wiki 
