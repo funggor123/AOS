@@ -6,6 +6,6 @@
 <p align="center">
   <img width="460" height="300" src="http://fqa.9front.org/giveup1.jpg">
 </p>
-9front Wiki : https://github.com/s31b18/Plan9_Resource/wiki/Welcome-to-9front
+Please go to 9front Wiki : https://github.com/s31b18/Plan9_Resource/wiki/Welcome-to-9front
   
 
