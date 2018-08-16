@@ -1,4 +1,4 @@
-# 9front integrated version 
+# AOS 
 <h3>The people who use 9front</h3>
 <p align="center">
   <img width="460" height="300" src="http://fqa.9front.org/sweat.gif">
